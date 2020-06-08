@@ -6,6 +6,9 @@ School App is a web application that behaves like a message board for students i
 
 ## Shots
 <img src="ProjectShots/login.png" width=650 />
+<img src="ProjectShots/signup.png" width=650 />
+<img src="ProjectShots/home.png" width=650 />
+<img src="ProjectShots/commentDialog.png" width=650 />
 
 ## Available Scripts
 
