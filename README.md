@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+School App is a web application that behaves like a message board for students in which they can make school-related posts. Users can login, sign up, make posts, comment on other posts, and like/dislike posts.
+
+## Shots
+<img 
+
 ## Available Scripts
 
 In the project directory, you can run:
