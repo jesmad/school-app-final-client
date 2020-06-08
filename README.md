@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 School App is a web application that behaves like a message board for students in which they can make school-related posts. Users can login, sign up, make posts, comment on other posts, and like/dislike posts.
 
 ## Shots
-<img src="ProjectShots/login.PNG" width=650 />
+<img src="ProjectShots/login.png" width=650 />
 
 ## Available Scripts
 
